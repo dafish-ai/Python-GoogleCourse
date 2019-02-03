@@ -4,16 +4,11 @@
 ### 1、课程概述
   Google for Education平台的Google Developer Python Course经典课程是基于python 2的经典课程，本课程以该课程内容为核心框架，并将学习python需要掌握的基础知识内容填充到框架中，形成了适合python入门学习的课程结构体系。你只需要有一点点其他语言的编程基础，就可以根据该课程入门学习python。课程在学习基本知识的基础上，加入了大量的练习，帮助你更快的提升python技能，快速入门。
 
-#### 1.1 学习人群定位：
+&emsp;&emsp;  **学习人群定位**：python入门小白课程
 
- python入门小白课程
+&emsp; &emsp;  **现有资料**: Google for Education平台Google Developer Python Course发布的视频，文档资料，国内Python教学经典资料
 
-#### 1.2 现有资料
-
- Google for Education平台Google Developer Python Course发布的视频，文档资料，国内Python教学经典资料
-
-#### 1.3 就业方向
- python web开发，游戏开发，算法工程师，数据分析师等
+&emsp; &emsp; **就业方向**: python web开发，游戏开发，算法工程师，数据分析师等
 
  ### 整体安排
  #### 2.1 时间安排
