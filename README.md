@@ -1,6 +1,6 @@
 # 大鱼AI🐟 ：Python-GoogleCourse
 
- Google for Education平台的Google Developer Python Course是基于python 2的一门经典课程
+ Google for Education平台的Google Developer Python Course是基于python的一门经典课程
 
 ### 1、课程概述
 
