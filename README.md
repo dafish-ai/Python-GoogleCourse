@@ -1,6 +1,7 @@
 # 大鱼AI🐟 ：Python-GoogleCourse
 
- Google for Education平台的Google Developer Python Course是基于python的一门经典课程
+ Google for Education平台的Google Developer Python Course是基于python的一门经典课程。
+ 
 
 ### 1、课程概述
 
@@ -29,6 +30,8 @@
 7. 【day 7】正则表达式，re模块，http请求
 
 #### 2.2 学习大纲安排
+
+课程资料及阅读材料：https://developers.google.cn/edu/python/
 
 **【Day 1】**
 
