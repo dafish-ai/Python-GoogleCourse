@@ -32,7 +32,7 @@
 #### 2.2 学习大纲安排
 
 课程资料及阅读材料：[Google Python](https://developers.google.cn/edu/python/) <br>
-课程视频连接: [Google Python](https://www.bilibili.com/video/av27039298/)
+课程【视频链接】: [Google Python](https://www.bilibili.com/video/av27039298/)
 
 **【Day 1】**
 
