@@ -1,7 +1,7 @@
 # 大鱼AI🐟 ：Python-GoogleCourse
 
  Google for Education平台的Google Developer Python Course是基于python的一门经典课程。
- 
+
 
 ### 1、课程概述
 
@@ -19,7 +19,7 @@
 
  本课程需要1周，每天都会针对python基本知识进行学习。课程安排如下：
 
-> 
+>
 
 1. 【day 1】python环境搭建，解释器，基础知识
 2. 【day 2】string, list, tuple
@@ -31,9 +31,11 @@
 
 #### 2.2 学习大纲安排
 
-课程资料及阅读材料：https://developers.google.cn/edu/python/
+课程资料及阅读材料：[Google Python](https://developers.google.cn/edu/python/) <br>
+课程视频连接: [Google Python](https://www.bilibili.com/video/av27039298/)
 
 **【Day 1】**
+
 
 1. 环境搭建<br>
    anaconda环境配置<br>
@@ -60,6 +62,7 @@
    逻辑运算符<br>
    运算符优先级<br>
 
+
  【作业】
 
  学习代码分享，200-300行要求。
@@ -69,6 +72,7 @@
 ------
 
 **【Day 2】**
+
 
 **基础**
 
@@ -98,6 +102,7 @@
 
 **【Day 3】**
 
+
 1. dict字典<br>
    定义<br>
    创建<br>
@@ -123,6 +128,7 @@
 ------
 
 **【Day 4】**
+
 
 1. 函数的定义<br>
 
