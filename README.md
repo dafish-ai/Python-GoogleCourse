@@ -32,7 +32,9 @@
 #### 2.2 学习大纲安排
 
 课程资料及阅读材料：[Google Python](https://developers.google.cn/edu/python/) <br>
-课程【视频链接】: [Google Python](https://www.bilibili.com/video/av27039298/)
+课程【视频链接】: [Google Python](https://www.bilibili.com/video/av27039298/) <br>
+国内参考资料(1)：[廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) <br>
+国内参考资料(2)：[小甲鱼python基础视频](https://www.bilibili.com/video/av4050443/)
 
 **【Day 1】**
 
@@ -97,6 +99,8 @@
  学习代码200-300行‘
 
  定义一个列表，包含自己的家庭成员名字，定义完成后在你名字前加入“大鱼AI"，再将”大鱼AI”这一名字删除，此时判断“大鱼AI“是否在列表中。
+
+[Google Python官方练习题string1 and list1](https://developers.google.com/edu/python/exercises/basic)
 
 ------
 
@@ -172,6 +176,9 @@
 请用户输入一个时间，输出选项所对应的现在时间，告诉用户这两个时间相隔的天数，小时数，分钟数和秒数。
 
  读取一个文件【文件将在之后给出】，将文件中转换为字典，key值为学习项目，value值为一个负责人列表，并判断字典中是否有负责人负责多个学习项目。
+
+
+ [Google Python官方练习题wordcount](https://developers.google.com/edu/python/exercises/basic)
 
 ------
 
