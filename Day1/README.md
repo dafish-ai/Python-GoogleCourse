@@ -1,14 +1,14 @@
 **【Day 1】**
-视频地址：
-https://www.bilibili.com/video/av27039298/?p=1
+视频地址：  
+https://www.bilibili.com/video/av27039298/?p=1  
 
-由于部分学分观看英文视频学习有困难，我们也准备了其它相关材料：
-https://github.com/dafish-ai/Python-GoogleCourse
+由于部分学分观看英文视频学习有困难，我们也准备了其它相关材料：  
+https://github.com/dafish-ai/Python-GoogleCourse  
 
-以及我们自己设计的课程材料：
-大鱼AI-Python课程-Day1.ipynb
+以及我们自己设计的课程材料：  
+大鱼AI-Python课程-Day1.ipynb  
 
-**故事背景：**
+**故事背景：**  
 某天，大鱼AI训练营里的小鱼想要物色一个相亲对象，可是她对和另一半的年龄差距很敏感，而鱼儿的记忆力通常不太好，算术更是惨不忍睹。 所以她决定请人设计一个程序，要求输入相亲对象的名字和年龄，自动输出和她的一个年龄差距。而她听说大鱼AI训练营里的小哥哥小姐姐们正在学习Python编程，于是决定请他们来帮助她实现这个程序。
 
 通过今天课程内容的逐步学习，我们将在最后帮助小鱼实现上述的小程序：
