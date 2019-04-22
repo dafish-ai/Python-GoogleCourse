@@ -5,7 +5,7 @@
 
 ### 1、课程概述
 
-  Google Developer Python Course是Google for Education平台的一门基于python 2的经典课程，本课程以该课程内容为核心框架，并将学习python需要掌握的基础知识内容填充到框架中，形成了适合python入门学习的课程结构体系。你只需要有一点点其他语言的编程基础，就可以根据该课程入门学习python。课程在学习基本知识的基础上，加入了大量的练习，帮助你更快的提升python技能，快速入门。
+  Google Developer Python Course是Google for Education平台的一门基于python 的经典课程，本课程以该课程内容为核心框架，并将学习python需要掌握的基础知识内容填充到框架中，形成了适合python入门学习的课程结构体系。你只需要有一点点其他语言的编程基础，就可以根据该课程入门学习python。课程在学习基本知识的基础上，加入了大量的练习，帮助你更快的提升python技能，快速入门。
 
 &emsp;&emsp;  **学习人群定位**：python入门小白课程
 
