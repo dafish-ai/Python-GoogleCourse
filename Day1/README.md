@@ -1,4 +1,4 @@
-**【Day 1】**
+**【Day 1】**  
 视频地址：  
 https://www.bilibili.com/video/av27039298/?p=1  
 
